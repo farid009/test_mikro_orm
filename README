@@ -1,0 +1,5 @@
+for run the project fist you should change mikro-orm.config.ts base on your db configs
+then install the dependencies 
+then use yarn start:dev or npm run start:dev to start the project after that app run on port 8888 and you can access document on localhost:8888/doc
+use post api for create customer
+use put api for update customer (problem is here)
